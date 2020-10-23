@@ -8,7 +8,6 @@
       <p><b>E-mail：zeliangzhang@hust.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/_DSC0963.JPG" width="100%">
     </td>
   </tr>
 </table>
