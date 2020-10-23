@@ -1,2 +1,2 @@
-# ZhangAIPI.github.io
-ZhangAIPI的个人主页
+# Open The Future
+Life, Pleasure, Algotithm and Artificial Intelligence
