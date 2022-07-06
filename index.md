@@ -25,4 +25,6 @@ Tensor Train Rank-1 Decomposition, NeurIPS 2020 Quantum Tensor Networks in Machi
 3. __Zeliang Zhang__, Yipeng Wang, Zeqi Liu, Xiao-Yang Liu. DHN: Deep Hamiltonian Network for Variational Reinforcement Learning, NeurIPS 2021 Quantum Tensor Networks in Machine Learning Workshop.  
 4. Li Xiao, __Zeliang Zhang__, Jinyang Jiang, Yijie Peng, Noise Optimization in Artificial Neural Networks, CASE 2022.  
 5. Xiaosen Wang, __Zeliang Zhang__, Kangheng Tong, Dihong Gong, Kun He, Zhifeng Li, Wei Liu, Triangle Attack: A Query-efficient Decision-based Adversarial Attack, ECCV 2022.  
-6. Edward Small, Wei Shao, Yufan Kang, __Zeliang Zhang__, Jeffrey Chan, Kacper Sokol, Flora Salim, Robustness of Fairness Optimisation Strategies, submitted to ICDE 2023.  
+7. __Zeliang Zhang__, Jinyang Jiang, Zhaofei Yu, Yijie Peng, Noise-injection training for Better Model Robustness, submitted to NeurIPS 2022.
+8. Edward Small, Wei Shao, Yufan Kang, __Zeliang Zhang__, Jeffrey Chan, Kacper Sokol, Flora Salim, Robustness of Fairness Optimisation Strategies, submitted to ICDE 2023.  
+
