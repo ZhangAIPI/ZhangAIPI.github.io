@@ -39,7 +39,7 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: Zhihu
+ - title: 知乎(Zhihu)
    url: "https://www.zhihu.com/people/wei-guan-de-pang-ci-i"
 mathjax: false
 markdown: kramdown
