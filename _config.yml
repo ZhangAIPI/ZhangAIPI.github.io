@@ -1,4 +1,4 @@
-name: Researcher
+name: Zhang, Zeliang
 description: Personal website
 menu:
  - page: About
@@ -39,14 +39,8 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
- - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
- - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
- - title: Twitter
-   url: "https://twitter.com/olehhv"
+ - title: Zhihu
+   url: "https://www.zhihu.com/people/wei-guan-de-pang-ci-i"
 mathjax: false
 markdown: kramdown
 encoding: utf-8

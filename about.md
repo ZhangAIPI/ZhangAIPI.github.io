@@ -1,12 +1,12 @@
 ---
 title: "About"
 summary: "About this page."
-date: 2016-04-13
+date: 2022-07-16
 layout: default
 ---
 
-"About" introductory paragraph.
+Hi, I am a Ph.D. student in the Computer Science Department at the University of Rochester. My advisor is Prof. Chenliang Xu. Before joining Prof. Xu's lab, I got my bachelor degree of Computer Science at Huazhong University of Science and Technology (HUST). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+My research interests lie in Deep Learning and High Performance GPU Computing for AI, especially adversarial learning, tensor learning and gradient optimization.
 
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
+![Researcher Portrait](assets/images/ZeliangInWuhan.jpg "Zeliang")
