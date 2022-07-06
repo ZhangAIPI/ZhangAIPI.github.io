@@ -50,5 +50,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: 
+baseurl: ZhangAIPI.github.io
 locale: en_GB
