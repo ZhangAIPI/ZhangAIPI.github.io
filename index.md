@@ -5,7 +5,8 @@ date: 2022-07-06
 layout: default
 ---
 
-![](assets/images/zeliang_who.jpg#pic_right)
+## Me
+![](assets/images/zeliang_who.jpg)
 
 ## Who am I (Work)
 Hi, I am Zeliang Zhang,  a Ph.D. student in the Computer Science Department at the University of Rochester. My advisor is Prof. Chenliang Xu. Before joining Prof. Xu's lab, I got my bachelor degree of Computer Science at Huazhong University of Science and Technology (HUST). I spent a really wonderful 4 years here and got to know abut AI with the help of Prof. Kun He.  I had ever worked as an research intern for almost 8 monthts in Machine Learning Sustainability (MLSS) group of Microsoft Research Asia, Beijing. My research mentor was Xinran Wei and my job was to fully utilize the GPU power to accelerate the computation of DFT, which is important to many areas, especially  material and chemistry science. Besides, I had ever worked as an intern in Guanghua Management School of Peking Universivity and did some research about model robusntess and training methods with the guidance of Prof. Yijie Peng.
