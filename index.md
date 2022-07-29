@@ -1,20 +1,3 @@
----
-title: "Home"
-summary: "About this page."
-date: 2022-07-06
-layout: default
----
-
-## Me
-![Researcher Portrait](assets/images/zeliang_who.jpg "Zeliang")
-
-## Who am I (Work)
-Hi, I am Zeliang Zhang,  a Ph.D. student in the Computer Science Department at the University of Rochester. My advisor is Prof. Chenliang Xu. Before joining Prof. Xu's lab, I got my bachelor degree of Computer Science at Huazhong University of Science and Technology (HUST). I spent really wonderful 4 years here and got to know about AI with the help of Prof. Kun He.  I had ever worked as an research intern for almost 8 monthts in Machine Learning Sustainability (MLSS) group of Microsoft Research Asia, Beijing. My research mentor was Xinran Wei and my job was to fully utilize the GPU power to accelerate the computation of DFT, which is important to many areas, especially  material and chemistry science. Besides, I had ever worked as an intern in Guanghua Management School of Peking Universivity and did some research about model robusntess and training methods with the guidance of Prof. Yijie Peng.
-
-My research interests lie in Deep Learning and High Performance GPU Computing for AI, especially adversarial learning, tensor learning and gradient optimization.
-
-## Who am I (Life)
-I come from Zibo, a medium size city of Shandong Province in China. I like watching movies, playing volleyballs and hanging out. I love trips without any plans with my friends. I love climbing and skiing. I am a little 'complex'. Sometimes I really like to talking with friends while sometimes I just want to stay alone and watch the water flow. I am willing to face challenges while I am a little fear about the uncentainty of the future. I love the feeling staying with my friends and family while I want to step out the comfortable zone to see the outside world. I have many big dreams while I am really lazy:( Anyway, I am still trying to get better!
 
 
 ## Research and Publibcations
