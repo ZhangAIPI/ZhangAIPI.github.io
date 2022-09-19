@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiahao Wang"
+title                    : "Zeliang Zhang"
 title_separator          : "-"
-name                     : &name "Jiahao Wang"
-description              : &description "Candidate for Bachelor, EE, Wuhan University."
-url                      : https://JiahaoPlus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zeliang Zhang"
+description              : &description "Candidate for Ph.D, CS, University of Rochester."
+url                      : https://zhangaipi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiahaoPlus/JiahaoPlus.github.io"
+repository               : "ZhangAIPI/ZhangAIPI.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiahao Wang"
-  avatar           : "bio-photo-0.jpg"
-  bio              : "Build intelligent machine for human well-being."
-  location         : "Zürich, Switzerland"
+  name             : "Zeliang Zhang"
+  avatar           : "images/mmexport1650706692927.jpg"
+  bio              : "Build reliable aritifial intelligent."
+  location         : "Rochester, New York, US."
   employer         :
   googlescholar    :
-  email            : "jiahaowg@gmail.com"
+  email            : "zzh136@ur.rochester.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JiahaoPlus"
+  github           : "ZhangAIPI"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/jiahaowg/
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/zeliang-jack-zhang-67396a228/
+  orcid            : 0000-0002-3890-5388 #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/jiahaowg
+  twitter          : 
   vine             :
   weibo            :
   xing             :
