@@ -10,7 +10,7 @@ redirect_from:
 * I am a Ph.D student at [University of Rochester](https://www.rochester.edu/). <br>
 My advisor is [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
 
-* I was a visiting research student in the [Deep & Tensor Learning Group](http://tensorlet.org/) founded by [FinRL Foundation](http://finrl.org/)  at University of Columbia, NY, from 2020 to 2022. <br>
+* I was a research assistant in the [Deep & Tensor Learning Group](http://tensorlet.org/) founded by [FinRL Foundation](http://finrl.org/)  at University of Columbia, NY, from 2020 to 2022. <br>
 I worked closely with [Dr. Xiao-Yang Liu](https://scholar.google.com/citations?user=C83b8ncAAAAJ) and [Prof. Yijie Peng](https://scholar.google.com/citations?user=J9FPMToAAAAJ). 
 
 * I received my B.E. degree from [Huazhong Univerisity of Science and Technology](http://english.hust.edu.cn/) in 2022 (majoring in CS).<br>
