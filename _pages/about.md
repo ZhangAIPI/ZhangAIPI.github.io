@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I was a Ph.D student at [University of Rochester](https://www.rochester.edu/). <br>
+* I am a Ph.D student at [University of Rochester](https://www.rochester.edu/). <br>
 My advisor is [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
 
 * I was a visiting research student in the [Deep & Tensor Learning Group](http://tensorlet.org/) founded by [FinRL Foundation](http://finrl.org/)  at University of Columbia, NY, from 2020 to 2022. <br>
