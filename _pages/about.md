@@ -10,7 +10,7 @@ redirect_from:
 * I am a Ph.D student at [University of Rochester](https://www.rochester.edu/). <br>
 My advisor is [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
 
-* My reseach interests fall on the computer vision, especially the out-of-distribution detection and adversarial learning,  and high performance tensor computation using GPUs. I worked closely with [Dr. Xiao-Yang Liu](https://scholar.google.com/citations?user=C83b8ncAAAAJ) and [Prof. Yijie Peng](https://scholar.google.com/citations?user=J9FPMToAAAAJ). 
+* My reseach interests fall on the computer vision, especially the deep learning robustness,  and high performance tensor computation using GPUs. I worked closely with [Dr. Xiao-Yang Liu](https://scholar.google.com/citations?user=C83b8ncAAAAJ) and [Prof. Yijie Peng](https://scholar.google.com/citations?user=J9FPMToAAAAJ). 
 
 * I received my B.E. degree from [Huazhong Univerisity of Science and Technology](http://english.hust.edu.cn/) in 2022 (majoring in CS).<br>
 My undergraduate research advisor is [Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ).
