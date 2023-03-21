@@ -15,8 +15,6 @@ My advisor is [Prof. Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
 * I received my B.E. degree from [Huazhong Univerisity of Science and Technology](http://english.hust.edu.cn/) in 2022 (majoring in CS).<br>
 My undergraduate research advisor is [Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ).
 
-# Recent News
-* Jul 03, 2022. [A paper was accepted by ECCV 2022](https://github.com/xiaosen-wang/TA).
 
 
 # Education
