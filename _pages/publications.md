@@ -13,6 +13,6 @@ Tensor Train Rank-1 Decomposition, __accepted by NeurIPS 2020 Quantum Tensor Net
 5. Xiaosen Wang, __Zeliang Zhang__, Kangheng Tong, Dihong Gong, Kun He, Zhifeng Li, Wei Liu, Triangle Attack: A Query-efficient Decision-based Adversarial Attack, __accepted by ECCV 2022__.  
 7. __Zeliang Zhang__, Jinyang Jiang, Zhaofei Yu, Yijie Peng, Noise-injection training for Better Model Robustness.
 8. Edward Small, Wei Shao, Yufan Kang, __Zeliang Zhang__, Jeffrey Chan, Kacper Sokol, Flora Salim, Robustness of Fairness Optimisation Strategies.  
-9. Xiao-Yang Liu, __Zeliang Zhang__, Zhiyuan Wang, Han Lu, Xiaodong Wang, Anwar Walid, High-Performance Tensor Learning Primitives Using GPU Tensor Cores.  
+9. Xiao-Yang Liu, __Zeliang Zhang*__, Zhiyuan Wang, Han Lu, Xiaodong Wang, Anwar Walid, High-Performance Tensor Learning Primitives Using GPU Tensor Cores,  __accepted by IEEE Transanction on Computers__. (Co-first author)   
 
 
