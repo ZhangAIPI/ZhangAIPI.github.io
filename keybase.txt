@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/furkanakkurt8492
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://furkanakkurt1335.github.io
+  * I am furkanakkurt8492 (https://keybase.io/furkanakkurt8492) on keybase.
+  * I have a public key ASAScnrECHqe7s4Yp-N6kQCs0Tr5dZmzHAwyqWAaZYxPXQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012012727ac4087a9eeece18a7e37a9100acd13af97599b31c0c32a9601a658c4f5d0a",
+      "host": "keybase.io",
+      "kid": "012012727ac4087a9eeece18a7e37a9100acd13af97599b31c0c32a9601a658c4f5d0a",
+      "uid": "fcff18e764ba3f60cc5994b0a7f87419",
+      "username": "furkanakkurt8492"
+    },
+    "merkle_root": {
+      "ctime": 1683993765,
+      "hash": "e0fe146e422883135954aa61981df9944b4fae7fdb986a63d7dc5c6026aede12678c4ef4574a2a0ae6105f0b16833bdd5f6353136e94ff2d5c5a36a768f4ede5",
+      "hash_meta": "9ad5d7ce5cdb3b38f6767cbb6bece03819e77d0fbb9a70ab583b82077e462475",
+      "seqno": 24446459
+    },
+    "service": {
+      "entropy": "2BTqWXPHFy1f7FQEr6DB+EF1",
+      "hostname": "furkanakkurt1335.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1683993813,
+  "expire_in": 504576000,
+  "prev": "ba7a09c44b294dfbfb8ee62c3110ef71cd0feaf285d70de7385c8cdc9eb95687",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEnJ6xAh6nu7OGKfjepEArNE6+XWZsxwMMqlgGmWMT10Kp3BheWxvYWTESpcCDMQgunoJxEspTfv7juYsMRDvcc0P6vKF1w3nOFyM3J65VofEIEuoCZh8T2ttatYBHMu57Hm1BjwY98Pwew+T/zH8d1hoAgHCo3NpZ8RApCOvgC7yp9WuFmqlyEOpNvocA28zhze4bgFqg/I49Cemuze0pUfyeUIytIII9DdMPQjSNYa8VjsSHBILVifxDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFt5jMDD+BPh4qmAzruuxQ681ZCcL1ifw2mmmqS2hSj5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/furkanakkurt8492
+
+==================================================================

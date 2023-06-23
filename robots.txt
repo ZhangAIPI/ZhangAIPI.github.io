@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://furkanakkurt1335.github.io/sitemap.xml
