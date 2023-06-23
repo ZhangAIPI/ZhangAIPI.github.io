@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David J. Brady on Chao Huang&#39;s Homepage</title>
+    <link>https://WikiChao.github.io/authors/david-j.-brady/</link>
+    <description>Recent content in David J. Brady on Chao Huang&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 03:09:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://WikiChao.github.io/authors/david-j.-brady/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compressive Sampling for Array Cameras</title>
+      <link>https://WikiChao.github.io/publication/compressive-sampling-for-array-cameras/</link>
+      <pubDate>Sun, 07 Apr 2019 03:09:35 +0000</pubDate>
+      
+      <guid>https://WikiChao.github.io/publication/compressive-sampling-for-array-cameras/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chao Huang&#39;s Homepage on Chao Huang&#39;s Homepage</title>
+    <link>https://WikiChao.github.io/</link>
+    <description>Recent content in Chao Huang&#39;s Homepage on Chao Huang&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 03:03:47 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Extreme Image Compression via Multiscale Autoencoders With Generative Adversarial Optimization</title>
+      <link>https://WikiChao.github.io/publication/extreme-image-compression-via-multiscale-autoencoders-with-generative-adversarial-optimization/</link>
+      <pubDate>Sun, 07 Apr 2019 03:03:47 +0000</pubDate>
+      
+      <guid>https://WikiChao.github.io/publication/extreme-image-compression-via-multiscale-autoencoders-with-generative-adversarial-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Local Part-Aware Point Cloud Denoising</title>
+      <link>https://WikiChao.github.io/publication/non-local-attention-based-progressive-3d-point-cloud-denoising/</link>
+      <pubDate>Sun, 07 Apr 2019 03:03:47 +0000</pubDate>
+      
+      <guid>https://WikiChao.github.io/publication/non-local-attention-based-progressive-3d-point-cloud-denoising/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
