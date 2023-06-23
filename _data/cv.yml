@@ -1,0 +1,137 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Furkan Akkurt
+    - name: Date of Birth
+      value: 2nd October 1997
+    - name: Languages
+      value: Turkish, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science
+      institution: <a href="https://cmpe.boun.edu.tr>">Department of Computer Engineering</a>, <a href="https://boun.edu.tr">Boğaziçi University</a>, Istanbul, Turkey
+      year: pursuing
+      description:
+        - Advisor&#58; <a href="https://cmpe.boun.edu.tr/people/suzan.uskudarli">Susan Uskudarli</a>
+    - title: Bachelor of Science
+      institution: Department of Computer Engineering, Boğaziçi University
+      year: 2023
+    - title: High School Diploma
+      institution: <a href="https://sehremini.meb.k12.tr">Şehremini Anadolu Lisesi</a>, Istanbul
+      year: 2015
+
+- title: Vocational Experience
+  type: time_table
+  contents:
+    - title: System Administrator
+      institution: <a href="https://tetam.boun.edu.tr">TETAM</a>, Boğaziçi University
+      year: May 2023 - now
+    - title: Internship on Automated UI Testing
+      institution: <a href="https://trailblu.com">Trailblu</a>, Istanbul
+      year: Summer 2022
+    - title: Internship on Machine Learning
+      institution: <a href="https://caretta.net">Caretta Software</a>, Istanbul
+      year: Winter 2022
+
+- title: Volunteering
+  type: time_table
+  contents:
+    - title: Student Volunteer
+      institution: <a href="https://2023.eacl.org">EACL 2023</a>, Dubrovnik, Croatia
+      year: May 2023
+
+- title: Assistantships
+  type: time_table
+  contents:
+    - title: Student Assistant
+      institution: Department of Computer Engineering, Boğaziçi University
+      year: Fall 2022
+      description:
+        - Course&#58; CMPE150 - Introduction to Computing
+        - Teacher&#58; <a href="https://cmpe.boun.edu.tr/people/murat.ozyurt">Murat Özyurt</a>
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Turkish Language Processing Platform (<a href="https://tulap.cmpe.boun.edu.tr">TULAP</a>)
+      year: 2022-now
+      description:
+        - <a href="https://youtu.be/iYUkV8mHeD4">Demonstration Video</a>
+    - title: A Collaborative Web Tool for Linguistic Annotation (<a href="https://seniorprojects.cmpe.boun.edu.tr/semesters/2022-spring/a-collaborative-web-tool-for-linguistic-annotation">BoAT</a>)
+      year: 2022-now
+      description:
+        - Senior Project, CMPE492
+        - Advisor&#58; <a href="https://cmpe.boun.edu.tr/people/suzan.uskudarli">Susan Uskudarli</a>
+        - <a href="https://youtu.be/5OD3j2mlMzc">Reference Video</a>, <a href="https://github.com/furkanakkurt1335/boat">Repository</a>, <a href="/assets/pdf/boat-492-poster.pdf">Poster</a>
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: TULAP - An Accessible and Sustainable Platform for Turkish Natural Language Processing Resources
+      year: 2023
+      description:
+        - Uskudarli S, Şen M, <i>Akkurt F</i>, Gürbüz M, Gungor O, Özgür A, Güngör T.
+        - EACL 2023
+        - <a href="https://aclanthology.org/2023.eacl-demo.25.pdf">PDF</a>
+    - title: BoAT v2 - A Web-Based Dependency Annotation Tool with Focus on Agglutinative Languages
+      year: 2022
+      description:
+        - <i>Akkurt SF</i>, Marşan B, Uskudarli S.
+        - ALTNLP 2022
+        - <a href="https://ceur-ws.org/Vol-3315/paper01.pdf">PDF</a>
+    - title: Enhancements to the BOUN Treebank Reflecting the Agglutinative Nature of Turkish
+      year: 2022
+      description:
+        - Marşan B, <i>Akkurt SF</i>, Şen M, Gürbüz M, Güngör O, Özateş ŞB, Üsküdarlı S, Özgür A, Güngör T, Öztürk B.
+        - ALTNLP 2022
+        - <a href="https://ceur-ws.org/Vol-3315/paper08.pdf">PDF</a>
+
+- title: Conferences
+  type: time_table
+  contents:
+    - title: SCOL 2023
+      year: May 2023
+      description:
+        - Student Conference on Linguistics, Istanbul, Turkey
+        - Presented <i>Collaborative Annotation Tool</i>.
+        - <a href="https://youtu.be/BtRVqgtxK8c">Video</a>.
+    - title: EACL 2023
+      year: May 2023
+      description:
+        - The 17th Conference of the European Chapter of the Association for Computational Linguistics, Dubrovnik, Croatia
+        - Presented <i>TULAP - An Accessible and Sustainable Platform for Turkish Natural Language Processing Resources</i>, system demonstration.
+    - title: ALTNLP 2022
+      year: June 2022
+      description: 
+        - The International Conference and Workshop on Agglutinative Language Technologies as a challenge of Natural Language Processing, Koper, Slovenia
+        - Presented <i>BoAT v2 - A Web-Based Dependency Annotation Tool with Focus on Agglutinative Languages</i>.
+
+- title: Open Source Contributions
+  type: nested_list
+  contents:
+    - title: <a href="https://universaldependencies.org">Universal Dependencies</a>
+      items:
+        - <a href="https://universaldependencies.org/treebanks/tr_boun/index.html">Turkish BOUN Treebank</a>
+        - <a href="https://universaldependencies.org/treebanks/tr_imst/index.html">Turkish IMST Treebank</a>
+
+- title: Languages
+  type: list
+  contents:
+    - Turkish&#58; Native
+    - English&#58; Bilingual
+    - Arabic, Japanese&#58; Intermediate
+
+- title: Interests
+  type: list
+  contents:
+    - Computational Linguistics, Linguistic Variation, Phonology.
+
+- title: Extracurricular Activities
+  type: list
+  contents:
+    - Like solving crosswords, problems, <a href="https://kenkenpuzzle.com">KenKen</a> and similar puzzles. Solved 60+ problems on <a href="https://projecteuler.net/progress=furkanakkurt1806">Project Euler</a>.
+    - Regular contibutor to <a href="https://xtools.wmflabs.org/globalcontribs/Furkanakkurt8015">certain Wikimedia Projects</a>.
+    - Regular contributor to and transcriber on <a href="https://genius.com/furkanakkurt7735">Genius</a>.
