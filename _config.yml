@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Furkan
+first_name: Zeliang
 middle_name: 
-last_name: Akkurt
-email: furkanakkurt9285@gmail.com
+last_name: Zhang
+email: hust0426@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal page.
 footer_text: >
@@ -70,16 +70,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: furkanakkurt1335
-gitlab_username: furkanakkurt5204
-twitter_username: furkanakkurt358
+github_username: ZhangAIPI
+gitlab_username: ZhangAIPI
+twitter_username: Zeliang Zhang
 # mastodon_username: home.social/@furkanakkurt1507
-linkedin_username: furkanakkurt9447
-telegram_username: furkanakkurt8279
-scholar_userid: i9gWWMUAAAAJ
-semanticscholar_id: 2174736343
+linkedin_username: Zeliang Zhang
+telegram_username: zeliang0426
+scholar_userid: 7nLfsSgAAAAJ
+semanticscholar_id: 2155280541
 # whatsapp_number: +905325555555
-orcid_id: 0000-0002-8411-654X
+orcid_id: 0000-0002-3890-5388
 # medium_username: furkanakkurt7642
 # quora_username: Furkan-Akkurt-1
 # publons_id: 
@@ -93,16 +93,16 @@ orcid_id: 0000-0002-8411-654X
 # wikidata_id: Q115431208
 # wikipedia_id: Furkanakkurt8015
 # dblp_url: https://dblp.org/pid/323/7980.html
-stackoverflow_id: 14289095
-kaggle_id: furkanakkurt8350
+# stackoverflow_id: 14289095
+# kaggle_id: furkanakkurt8350
 # lastfm_id: furkanakkurt865
 # spotify_id: cxf9f9pzmeot1j8e5hs4wg373
 # pinterest_id: furkanakkurt7067
 # unsplash_id: furkanakkurt7969
-instagram_id: furkanakkurt5466
-facebook_id: furkanakkurt5466
-youtube_id: furkanakkurt8601
-discord_id: furkanakkurt1821#8351
+# instagram_id: furkanakkurt5466
+# facebook_id: furkanakkurt5466
+# youtube_id: furkanakkurt8601
+# discord_id: furkanakkurt1821#8351
 # genius_id: furkanakkurt7735
 
 contact_note: >
@@ -122,7 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: furkanakkurt1335 # blog_name will be displayed in your blog page
+blog_name: Zeliang # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: personal blog
 permalink: /blog/:year/:title/
