@@ -1,0 +1,21 @@
+education:
+
+  - affiliation: "University of Rochester (UR)"
+    website: https://www.rochester.edu/
+    base: Rochester, NY, US
+    # affiliation_short: UR
+    time:  Present
+    position: Ph.D. Student in Computer Science
+    advisors:
+      - name: Chenliang Xu
+        page: https://www.cs.rochester.edu/~cxu22/index.html
+    image: ./assets/education_images/uofr-logo-shield.png
+
+
+  - affiliation: "Huazhong University of Science and Technology (HUST)"
+    website: https://english.hust.edu.cn/
+    base: Wuhan, China
+    # affiliation_short: USTC
+    time: Aug. 2015 - Jun. 2019
+    position: B.Sc. in Computer Science (Transfered from the optoelectronics)
+    image: ./assets/education_images/hust.jpg

@@ -1,0 +1,16 @@
+experiences:
+
+  - affiliation: "Microsoft Research Asia (MSRA)"
+    # affiliation_short: Dartmouth
+    website: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
+    base: Beijing, China
+    time: Oct. 2021 - Jun. 2022
+    position: Researcher intern
+    advisors:
+      - name: Jia Zhang and Xinran Wei
+        page: https://www.microsoft.com/en-us/research/people/zhangjia/
+        page: https://www.microsoft.com/en-us/research/people/weixinran/ 
+    # notes: Excellent Graduate for Exceptional Performance
+    image: ./assets/experience_images/msra.png
+
+
