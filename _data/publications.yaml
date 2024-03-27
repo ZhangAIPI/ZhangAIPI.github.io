@@ -155,6 +155,30 @@ papers:
     notes:  Adopted by the <a href="https://github.com/AI4Finance-Foundation/ElegantRL"><papertitle>ElegantRL library</papertitle></a> (~ 3k stars! &#128640).
     category: [Optimization]
 
+  - title: "Video Understanding with Large Language Models: A Survey"
+    authors: Prof. Chenliang Xu and Prof. Jiebo Luo's Labs at URCS
+    code: "https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding"
+    image: ./assets/images/vidLLM.png
+    category: [osproj]
+
+  - title: "TransferAttack"
+    authors: Trustworthy AI Group 
+    code: "https://github.com/Trustworthy-AI-Group/TransferAttack"
+    image: ./assets/images/ta_overview.png
+    category: [osproj]
+
+  - title: "Elegant RL"
+    authors: AI4Finance Foundation
+    code: "https://github.com/AI4Finance-Foundation/ElegantR"
+    image: ./assets/images/erl.jpg
+    category: [osproj]
+
+  - title: "RL for Quantum Circuits"
+    authors: AI4Finance Foundation
+    code: "https://github.com/YangletLiu/RL4QuantumCircuits"
+    image: ./assets/images/quantum_circuit.png
+    category: [osproj]
+
 
   
 
