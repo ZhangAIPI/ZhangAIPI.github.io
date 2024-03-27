@@ -7,10 +7,10 @@ papers:
     paper_pdf: https://arxiv.org/pdf/2403.12777.pdf
     code: https://github.com/ZhangAIPI/DIM
     image: ./assets/publication_images/DIM_pipeline.png
-    category: [Trustworthy, Spotlight]
+    category: [Trustworthy]
 
 
-   - title: "Learning to Transform Dynamically for Better Adversarial Transferability"
+  - title: "Learning to Transform Dynamically for Better Adversarial Transferability"
     authors:   Rongyi Zhu*, <strong><b>Zeliang Zhang*†</b></strong>,, Susan Liang, Zhuo Liu, Chenliang Xu
     venue: CVPR 2024.
     # paper_pdf: https://arxiv.org/pdf/2403.12777.pdf
@@ -59,7 +59,7 @@ papers:
     venue: ICLR 2024. 
     paper_pdf: "https://arxiv.org/pdf/2305.08960.pdf"
     image: ./assets/images/gradient_estimation.png
-    category: [Optimization, Spotlight]
+    category: [Optimization]
 
 
   - title: "Bag of Tricks to Boost the Adversarial Transferability"
@@ -83,7 +83,7 @@ papers:
     venue: NeurIPS dataset and benchmark track 2024.
     paper_pdf: "https://openreview.net/pdf?id=T5ArxPU3Oq"
     image: ./assets/images/quantum_paper.png
-    category: [HPC4AI, Spotlight]
+    category: [HPC4AI]
 
 
   - title: "Diversifying the High-level Features for better Adversarial Transferability"
@@ -141,7 +141,7 @@ papers:
     image: ./assets/images/trillion_paper.png
     category: [HPC4AI]
   
-  
+
   - title: "DHN: DEEP HAMILTONIAN NETWORK FOR VARIATIONAL REINFORCEMENT LEARNING"
     authors: <strong><b>Zeliang Zhang</b></strong>,  Yipeng Wang, Zeqi Liu, Xiao-Yang Liu
     venue: NIPS 2021 QTNML W.
