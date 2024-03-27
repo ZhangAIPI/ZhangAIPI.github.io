@@ -92,8 +92,8 @@ papers:
 
 
   - title: "Diversifying the High-level Features for better Adversarial Transferability"
-    authors: Zhiyuan Wang*, <strong><b>Zeliang Zhang*</b></strong>, Siyuan Liang, Xiaosen Wang
-    venue: ICCV 2023.
+    authors: <strong><b>Zeliang Zhang*</b></strong>, Zhiyuan Wang*,  Siyuan Liang, Xiaosen Wang
+    venue: BMVC 2023.
     paper_pdf: "https://arxiv.org/pdf/2304.10136.pdf"
     image: ./assets/images/dhf_paper.png
     category: [Trustworthy]
