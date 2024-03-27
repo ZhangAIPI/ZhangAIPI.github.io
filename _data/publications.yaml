@@ -19,7 +19,7 @@ papers:
 
 
   - title: "Learning to Transform Dynamically for Better Adversarial Transferability"
-    authors:   Rongyi Zhu*, <strong><b>Zeliang Zhang*†</b></strong>,, Susan Liang, Zhuo Liu, Chenliang Xu
+    authors:   Rongyi Zhu*, <strong><b>Zeliang Zhang*†</b></strong>, Susan Liang, Zhuo Liu, Chenliang Xu
     venue: CVPR 2024.
     # paper_pdf: https://arxiv.org/pdf/2403.12777.pdf
     code: https://github.com/Trustworthy-AI-Group/TransferAttack
