@@ -9,6 +9,14 @@ papers:
     image: ./assets/publication_images/DIM_pipeline.png
     category: [Trustworthy]
 
+  - title: "Discover and Mitigate Multiple Biased Subgroups in Image Classifiers"
+    authors:  <strong><b>Zeliang Zhang*</b></strong>, Mingqian Feng*, Zhiheng Li, Chenliang Xu
+    venue: CVPR 2024.
+    paper_pdf: https://arxiv.org/pdf/2403.12777.pdf
+    code: https://github.com/ZhangAIPI/DIM
+    image: ./assets/publication_images/DIM_pipeline.png
+    category: [Spotlight]
+
 
   - title: "Learning to Transform Dynamically for Better Adversarial Transferability"
     authors:   Rongyi Zhu*, <strong><b>Zeliang Zhang*†</b></strong>,, Susan Liang, Zhuo Liu, Chenliang Xu
@@ -61,6 +69,13 @@ papers:
     image: ./assets/images/gradient_estimation_CNN.png
     category: [Optimization]
 
+  - title: "One Forward is Enough for Training Neural Networks via the Likelihood Ratio Method"
+    authors: Jinyang Jiang*, <strong><b>Zeliang Zhang*</b></strong>, Chenliang Xu, Zhaofei Yu, Yijie Peng
+    venue: ICLR 2024. 
+    paper_pdf: "https://arxiv.org/pdf/2305.08960.pdf"
+    image: ./assets/images/gradient_estimation_CNN.png
+    category: [Spotlight]
+
 
   - title: "Bag of Tricks to Boost the Adversarial Transferability"
     authors: <strong><b>Zeliang Zhang*†</b></strong>, Rongyi Zhu*, Wei Yao, Xiaosen Wang, Chenliang Xu
@@ -84,6 +99,13 @@ papers:
     paper_pdf: "https://openreview.net/pdf?id=T5ArxPU3Oq"
     image: ./assets/images/quantum_paper.png
     category: [HPC4AI]
+
+  - title: "Classical Simulation of Quantum Circuits using Reinforcement Learning: Parallel Environments and Benchmark"
+    authors: Xiao-Yang Liu, <strong><b>Zeliang Zhang</b></strong>
+    venue: NeurIPS dataset and benchmark track 2024.
+    paper_pdf: "https://openreview.net/pdf?id=T5ArxPU3Oq"
+    image: ./assets/images/quantum_paper.png
+    category: [Spotlight]
 
 
   - title: "Diversifying the High-level Features for better Adversarial Transferability"
