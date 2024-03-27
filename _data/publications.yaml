@@ -106,7 +106,7 @@ papers:
     authors: Xiao-Yang Liu*, <strong><b>Zeliang Zhang*</b></strong>, Zhiyuan Wang, Han Lu, Xiaodong Wang, Anwar Walid
     venue: IEEE Transactions on Computers (CCF-A journal).
     paper_pdf: "https://arxiv.org/pdf/2309.14700.pdf"
-    image: ./assets/images/sit_paper.png
+    image: ./assets/images/tensor_paper.png
     category: [HPC4AI]
 
 
@@ -138,7 +138,7 @@ papers:
     authors: <strong><b>Zeliang Zhang</b></strong>,  Junzhe Zhang, Guoping Lin, Zeyuan Yin, Kun He
     venue: NIPS 2020 QTNML W.
     paper_pdf: "https://tensorworkshop.github.io/NeurIPS2020/accepted_papers/NIPS_2020_Workshop_Zeliang__Copy_%20(6).pdf"
-    image: ./assets/images/trillion_paper.png
+    image: ./assets/images/ttr1_paper.png
     category: [HPC4AI]
   
 
@@ -146,7 +146,7 @@ papers:
     authors: <strong><b>Zeliang Zhang</b></strong>,  Yipeng Wang, Zeqi Liu, Xiao-Yang Liu
     venue: NIPS 2021 QTNML W.
     paper_pdf: "https://tensorworkshop.github.io/NeurIPS2021/accepted_papers/DHN_Variational_RL_27.pdf"
-    image: ./assets/images/trillion_paper.png
+    image: ./assets/images/ham_paper.png
     notes:  Adopted by the <a href="https://github.com/AI4Finance-Foundation/ElegantRL"><papertitle>ElegantRL library</papertitle></a> (~ 3k stars! &#128640).
     category: [Optimization]
 
