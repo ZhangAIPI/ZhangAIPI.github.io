@@ -130,7 +130,7 @@ papers:
     venue: NIPS 2021 QTNML W.
     paper_pdf: "https://tensorworkshop.github.io/NeurIPS2021/accepted_papers/DHN_Variational_RL_27.pdf"
     image: ./assets/images/trillion_paper.png
-    note:  Adopted by the <a href="https://github.com/AI4Finance-Foundation/ElegantRL"><papertitle>ElegantRL library</papertitle></a> (~ 3k stars! &#128640).
+    notes:  Adopted by the <a href="https://github.com/AI4Finance-Foundation/ElegantRL"><papertitle>ElegantRL library</papertitle></a> (~ 3k stars! &#128640).
     category: [Optimization]
 
 
