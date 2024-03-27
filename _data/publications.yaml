@@ -58,7 +58,7 @@ papers:
     authors: Jinyang Jiang*, <strong><b>Zeliang Zhang*</b></strong>, Chenliang Xu, Zhaofei Yu, Yijie Peng
     venue: ICLR 2024. 
     paper_pdf: "https://arxiv.org/pdf/2305.08960.pdf"
-    image: ./assets/images/gradient_estimation.png
+    image: ./assets/images/gradient_estimation_CNN.png
     category: [Optimization]
 
 
