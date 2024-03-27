@@ -1,5 +1,6 @@
 papers:
 
+
   - title: "Discover and Mitigate Multiple Biased Subgroups in Image Classifiers"
     authors:  <strong><b>Zeliang Zhang*</b></strong>, Mingqian Feng*, Zhiheng Li, Chenliang Xu
     venue: CVPR 2024.
@@ -8,6 +9,7 @@ papers:
     image: ./assets/publication_images/DIM_pipeline.png
     category: [Trustworthy, Spotlight]
 
+
    - title: "Learning to Transform Dynamically for Better Adversarial Transferability"
     authors:   Rongyi Zhu*, <strong><b>Zeliang Zhang*†</b></strong>,, Susan Liang, Zhuo Liu, Chenliang Xu
     venue: CVPR 2024.
@@ -15,6 +17,7 @@ papers:
     code: https://github.com/Trustworthy-AI-Group/TransferAttack
     image: ./assets/images/l2t.png
     category: [Trustworthy]
+
 
   - title: "Forward Learning with Differential Privacy"
     authors: Mingqian Feng, <strong><b>Zeliang Zhang</b></strong>, Jinyang Jiang, Chenliang Xu
@@ -26,12 +29,14 @@ papers:
     notes:  Coming Soon
     # highlight: True
 
+
   - title: "Forward Learning for Gradient-based Black-box Saliency Map Generation"
     authors: <strong><b>Zeliang Zhang*†</b></strong>, Mingqian Feng*, Jinyang Jiang, Rongyi Zhu, Yijie Peng, Chenliang Xu
     venue: Preprint arXiv 2024.
     paper_pdf: "https://arxiv.org/pdf/2403.15603.pdf"
     image: ./assets/publication_images/LR_saliency_map.png
     category: [Optimization]
+
 
   - title: "Approximated Likelihood Ratio: A Forward-Only and Parallel Framework for Boosting Neural Network Training"
     authors: <strong><b>Zeliang Zhang*†</b></strong>, Jinyang Jiang*, Zhuo Liu, Susan Liang, Yijie Peng, Chenliang Xu
@@ -40,6 +45,7 @@ papers:
     image: ./assets/images/alr_opt.png
     category: [Optimization]
 
+
   - title: "How Robust is your Fair Model? Exploring the Robustness of Diverse Fairness Strategies"
     authors: Edward Small, Wei Shao, <strong><b>Zeliang Zhang</b></strong>, Peihan Liu, Jeffrey Chan, Kacper Sokol, Flora Salim
     venue: Data Mining and Knowledge Discovery.
@@ -47,12 +53,14 @@ papers:
     image: ./assets/images/fair.png
     category: [Optimization]
 
+
   - title: "One Forward is Enough for Training Neural Networks via the Likelihood Ratio Method"
     authors: Jinyang Jiang*, <strong><b>Zeliang Zhang*</b></strong>, Chenliang Xu, Zhaofei Yu, Yijie Peng
     venue: ICLR 2024. 
     paper_pdf: "https://arxiv.org/pdf/2305.08960.pdf"
     image: ./assets/images/gradient_estimation.png
     category: [Optimization, Spotlight]
+
 
   - title: "Bag of Tricks to Boost the Adversarial Transferability"
     authors: <strong><b>Zeliang Zhang*†</b></strong>, Rongyi Zhu*, Wei Yao, Xiaosen Wang, Chenliang Xu
@@ -69,12 +77,14 @@ papers:
     image: ./assets/images/text_paper.png
     category: [Trustworthy]
 
+
   - title: "Classical Simulation of Quantum Circuits using Reinforcement Learning: Parallel Environments and Benchmark"
     authors: Xiao-Yang Liu, <strong><b>Zeliang Zhang</b></strong>
     venue: NeurIPS dataset and benchmark track 2024.
     paper_pdf: "https://openreview.net/pdf?id=T5ArxPU3Oq"
     image: ./assets/images/quantum_paper.png
     category: [HPC4AI, Spotlight]
+
 
   - title: "Diversifying the High-level Features for better Adversarial Transferability"
     authors: Zhiyuan Wang*, <strong><b>Zeliang Zhang*</b></strong>, Siyuan Liang, Xiaosen Wang
@@ -83,12 +93,14 @@ papers:
     image: ./assets/images/dhf_paper.png
     category: [Trustworthy]
 
+
   - title: "Structure Invariant Transformation for better Adversarial Transferability"
     authors: Xiaosen Wang, <strong><b>Zeliang Zhang</b></strong>, Jianping Zhang
     venue: ICCV 2023.
     paper_pdf: "https://arxiv.org/pdf/2309.14700.pdf"
     image: ./assets/images/sit_paper.png
     category: [Trustworthy]
+
 
   - title: "High-Performance Tensor Learning Primitives Using GPU Tensor Cores"
     authors: Xiao-Yang Liu*, <strong><b>Zeliang Zhang*</b></strong>, Zhiyuan Wang, Han Lu, Xiaodong Wang, Anwar Walid
@@ -97,12 +109,14 @@ papers:
     image: ./assets/images/sit_paper.png
     category: [HPC4AI]
 
+
   - title: "Triangle Attack: A Query-efficient Decision-based Adversarial Attack"
     authors: Xiaosen Wang, <strong><b>Zeliang Zhang</b></strong>, Kangheng Tong, Dihong Gong, Kun He, Zhifeng Li, Wei Liu
     venue: ECCV 2022.
     paper_pdf: "https://arxiv.org/pdf/2112.06569.pdf"
     image: ./assets/images/ta_paper.png
     category: [Trustworthy]
+
 
   - title: "Noise Optimization for Artificial Neural Networks"
     authors: Li Xiao (Advisor), <strong><b>Zeliang Zhang</b></strong>, Jinyang Jiang, Yijie Peng
@@ -111,6 +125,7 @@ papers:
     image: ./assets/images/case_paper.png
     category: [Optimization]
 
+
   - title: "Trillion-Tensor: Trillion-Scale CP Tensor Decomposition"
     authors: <strong><b>Zeliang Zhang</b></strong>, Xiao-Yang Liu, Pan Zhou
     venue: IJCAI 2020 TNRML W.
@@ -118,12 +133,14 @@ papers:
     image: ./assets/images/trillion_paper.png
     category: [HPC4AI]
 
+
   - title: "Parallel TTr1-Tensor: Randomized Compression-based Scheme for Tensor Train Rank-1 Decomposition"
     authors: <strong><b>Zeliang Zhang</b></strong>,  Junzhe Zhang, Guoping Lin, Zeyuan Yin, Kun He
     venue: NIPS 2020 QTNML W.
     paper_pdf: "https://tensorworkshop.github.io/NeurIPS2020/accepted_papers/NIPS_2020_Workshop_Zeliang__Copy_%20(6).pdf"
     image: ./assets/images/trillion_paper.png
     category: [HPC4AI]
+  
   
   - title: "DHN: DEEP HAMILTONIAN NETWORK FOR VARIATIONAL REINFORCEMENT LEARNING"
     authors: <strong><b>Zeliang Zhang</b></strong>,  Yipeng Wang, Zeqi Liu, Xiao-Yang Liu
