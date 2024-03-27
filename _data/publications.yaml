@@ -8,6 +8,7 @@ papers:
     code: https://github.com/ZhangAIPI/DIM
     image: ./assets/publication_images/DIM_pipeline.png
     category: [Trustworthy]
+    highlight: True
 
 
 
@@ -61,7 +62,7 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2305.08960.pdf"
     image: ./assets/images/gradient_estimation_CNN.png
     category: [Optimization]
-
+    highlight: True
 
 
   - title: "Bag of Tricks to Boost the Adversarial Transferability"
@@ -85,7 +86,8 @@ papers:
     venue: NeurIPS dataset and benchmark track 2024.
     paper_pdf: "https://openreview.net/pdf?id=T5ArxPU3Oq"
     image: ./assets/images/quantum_paper.png
-    category: [HPC4AI] [Spotlight]
+    category: [HPC4AI]
+    highlight: True
 
 
 
