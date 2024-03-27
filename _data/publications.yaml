@@ -85,7 +85,7 @@ papers:
     venue: NeurIPS dataset and benchmark track 2024.
     paper_pdf: "https://openreview.net/pdf?id=T5ArxPU3Oq"
     image: ./assets/images/quantum_paper.png
-    category: [HPC4AI], [Spotlight]
+    category: [HPC4AI] [Spotlight]
 
 
 
