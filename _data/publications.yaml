@@ -175,7 +175,7 @@ papers:
 
   - title: "Elegant RL"
     authors: AI4Finance Foundation
-    code: "https://github.com/AI4Finance-Foundation/ElegantR"
+    code: "https://github.com/AI4Finance-Foundation/ElegantRL"
     image: ./assets/images/erl.jpg
     category: [osproj]
 
