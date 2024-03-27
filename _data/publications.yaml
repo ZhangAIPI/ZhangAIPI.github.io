@@ -106,6 +106,12 @@ papers:
     image: ./assets/images/sit_paper.png
     category: [Trustworthy]
 
+  - title: "Scalable CP Decomposition for Tensor Learning using GPU Tensor Cores"
+    authors: <strong><b>Zeliang Zhang</b></strong>,  Zhuo Liu, Susan Liang, Zhiyuan Wang, Yifan Zhu, Chen Ding, Chenliang Xu
+    venue: DAC 2024 WIP.
+    paper_pdf: "https://arxiv.org/pdf/2311.13693.pdf"
+    image: ./assets/images/cp_paper.png
+    category: [HPC4AI]
 
   - title: "High-Performance Tensor Learning Primitives Using GPU Tensor Cores"
     authors: Xiao-Yang Liu*, <strong><b>Zeliang Zhang*</b></strong>, Zhiyuan Wang, Han Lu, Xiaodong Wang, Anwar Walid
