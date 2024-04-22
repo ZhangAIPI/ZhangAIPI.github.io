@@ -67,8 +67,8 @@ title: Home
 
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-all">All</div></li>
-    <li><div class="button active" data-ref="#papers-opt">Optimization</div></li>
     <li><div class="button active" data-ref="#papers-trustworthy">Trustworthy</div></li>
+    <li><div class="button active" data-ref="#papers-opt">Optimization</div></li>
     <li><div class="button active" data-ref="#papers-hpc4ai">HPC4AI</div></li>
     <li><div class="button active" data-ref="#osproj">Open Source Projects</div></li>
   </ul>
@@ -111,6 +111,63 @@ title: Home
       {% endfor %}
     </div> -->
 
+    <div class="tab-pane active" id="papers-trustworthy">
+      {% for paper in site.data.publications.papers %}
+      {% if paper.category contains 'Trustworthy' %}
+        <div class="paper">
+          <div class="row" style="display: flex;align-items: center;">
+            <div class="four columns">
+              <div class="figure" style="display: flex; justify-content: center;">
+                <img src="{{ paper.image }}" width="100%">
+              </div>
+            </div>
+            <div class="eight columns">
+                          
+              {% if paper.highlight %}
+              <p class="title" style="color: #07c63c;"><b>{{ paper.title }}</b></p>
+              {% else %}
+              <p class="title"><b>{{ paper.title }}</b></p>
+              {% endif %}
+
+              <p>{{ paper.authors }}</p>
+              <p><i>{{ paper.venue }}</i></p>
+              <div class="paper-buttons">
+
+                {% if paper.paper_pdf %}
+                  <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+                {% endif %}
+
+                {% if paper.slides %}
+                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+                {% endif %}
+
+                {% if paper.poster %}
+                  <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+                {% endif %}
+
+                {% if paper.video %}
+                  <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+                {% endif %}
+
+                {% if paper.code %}
+                  <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+                {% endif %}
+
+                {% if paper.data %}
+                  <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+                {% endif %}
+
+                {% if paper.notes %} 
+                <strong> <i style="color:deeppink">{{ paper.notes }}</i></strong>
+                {% endif %}
+
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+      {% endfor %}
+    </div>
     
     
     <div class="tab-pane active" id="papers-opt">
@@ -172,63 +229,7 @@ title: Home
     </div>
 
 
-    <div class="tab-pane active" id="papers-trustworthy">
-      {% for paper in site.data.publications.papers %}
-      {% if paper.category contains 'Trustworthy' %}
-        <div class="paper">
-          <div class="row" style="display: flex;align-items: center;">
-            <div class="four columns">
-              <div class="figure" style="display: flex; justify-content: center;">
-                <img src="{{ paper.image }}" width="100%">
-              </div>
-            </div>
-            <div class="eight columns">
-                          
-              {% if paper.highlight %}
-              <p class="title" style="color: #07c63c;"><b>{{ paper.title }}</b></p>
-              {% else %}
-              <p class="title"><b>{{ paper.title }}</b></p>
-              {% endif %}
-
-              <p>{{ paper.authors }}</p>
-              <p><i>{{ paper.venue }}</i></p>
-              <div class="paper-buttons">
-
-                {% if paper.paper_pdf %}
-                  <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
-                {% endif %}
-
-                {% if paper.slides %}
-                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-                {% endif %}
-
-                {% if paper.poster %}
-                  <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-                {% endif %}
-
-                {% if paper.video %}
-                  <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-                {% endif %}
-
-                {% if paper.code %}
-                  <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-                {% endif %}
-
-                {% if paper.data %}
-                  <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
-                {% endif %}
-
-                {% if paper.notes %} 
-                <strong> <i style="color:deeppink">{{ paper.notes }}</i></strong>
-                {% endif %}
-
-              </div>
-            </div>
-          </div>
-        </div>
-      {% endif %}
-      {% endfor %}
-    </div>
+    
 
     <div class="tab-pane active" id="osproj">
       {% for paper in site.data.publications.papers %}
