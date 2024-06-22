@@ -1,5 +1,17 @@
 experiences:
 
+  - affiliation: "Microsoft Research"
+    # affiliation_short: Dartmouth
+    website: https://www.microsoft.com/en-us/research/
+    base: Redmond, Washington
+    time: May. 2024 - Aug. 2024
+    position: Researcher intern
+    advisors:
+      - name: Xiaodong Liu, Hao Cheng, and Jianfeng Gao
+    # notes: Excellent Graduate for Exceptional Performance
+    image: ./assets/images/MSR.jpg
+
+
   - affiliation: "Microsoft Research Asia (MSRA)"
     # affiliation_short: Dartmouth
     website: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/

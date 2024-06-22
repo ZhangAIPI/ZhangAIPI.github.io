@@ -1,5 +1,13 @@
 papers:
 
+  - title: "Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?"
+    authors:  Mingqian Feng, Yunlong Tang, <strong><b>Zeliang Zhang</b></strong>, Chenliang Xu
+    venue:  Preprint arXiv 2024.
+    paper_pdf: https://arxiv.org/pdf/2406.12663
+    image: ./assets/publication_images/image_caption_hulluci.png
+    category: [Trustworthy]
+    highlight: True
+
 
   - title: "Discover and Mitigate Multiple Biased Subgroups in Image Classifiers"
     authors:  <strong><b>Zeliang Zhang*</b></strong>, Mingqian Feng*, Zhiheng Li, Chenliang Xu
