@@ -40,14 +40,6 @@ papers:
     # highlight: True
 
 
-  - title: "Forward Learning for Gradient-based Black-box Saliency Map Generation"
-    authors: <strong><b>Zeliang Zhang*†</b></strong>, Mingqian Feng*, Jinyang Jiang, Rongyi Zhu, Yijie Peng, Chenliang Xu
-    venue: Preprint arXiv 2024.
-    paper_pdf: "https://arxiv.org/pdf/2403.15603.pdf"
-    image: ./assets/publication_images/LR_saliency_map.png
-    category: [Optimization]
-
-
   - title: "Approximated Likelihood Ratio: A Forward-Only and Parallel Framework for Boosting Neural Network Training"
     authors: <strong><b>Zeliang Zhang*†</b></strong>, Jinyang Jiang*, Zhuo Liu, Susan Liang, Yijie Peng, Chenliang Xu
     venue: Preprint arXiv 2024.
@@ -75,7 +67,7 @@ papers:
 
   - title: "Bag of Tricks to Boost the Adversarial Transferability"
     authors: <strong><b>Zeliang Zhang*†</b></strong>, Rongyi Zhu*, Wei Yao, Xiaosen Wang, Chenliang Xu
-    venue: Preprint arXiv 2024
+    venue: ECCV 2024
     paper_pdf: "https://arxiv.org/pdf/2401.08734.pdf"
     image: ./assets/images/tricks_paper.png
     category: [Trustworthy]
