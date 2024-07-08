@@ -1,4 +1,12 @@
 papers:
+  - title: "Diversifying the Expert Knowledge for Task-Agnostic Pruning in Sparse Mixture-of-Experts"
+    authors:  <strong><b>Zeliang Zhang</b></strong>, Xiaodong Liu, Hao Cheng, Chenliang Xu, Jianfeng Gao
+    venue:  Preprint 2024 on Researchgate, to appear in arxiv.
+    paper_pdf: https://www.researchgate.net/publication/382067333_Diversifying_the_Expert_Knowledge_for_Task-Agnostic_Pruning_in_Sparse_Mixture-of-Experts
+    image: ./assets/images/compress_MoE_teaser.png
+    category: [HPC4AI]
+    highlight: True
+
 
   - title: "Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?"
     authors:  Mingqian Feng, Yunlong Tang, <strong><b>Zeliang Zhang</b></strong>, Chenliang Xu
