@@ -7,6 +7,13 @@ papers:
     category: [HPC4AI]
     highlight: True
 
+- title: "Can CLIP Count Stars? An Empirical Study on Quantity Bias in CLIP"
+    authors:  <strong><b>Zeliang Zhang</b></strong>, Zhuo Liu, Mingqian Feng, Chenliang Xu
+    venue:  Findings of EMNLP 2024.
+    image: ./assets/publication_images/clip_bias.pngs
+    category: [Trustworthy]
+    highlight: True
+
 
   - title: "Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?"
     authors:  Mingqian Feng, Yunlong Tang, <strong><b>Zeliang Zhang</b></strong>, Chenliang Xu
@@ -74,8 +81,7 @@ papers:
 
 
   - title: "Bag of Tricks to Boost the Adversarial Transferability"
-    authors: <strong><b>Zeliang Zhang*†</b></strong>, Rongyi Zhu*, Wei Yao, Xiaosen Wang, Chenliang Xu
-    venue: ECCV 2024
+    authors: <strong><b>Zeliang Zhang</b></strong>,  Wei Yao, Xiaosen Wang
     paper_pdf: "https://arxiv.org/pdf/2401.08734.pdf"
     image: ./assets/images/tricks_paper.png
     category: [Trustworthy]
