@@ -1,9 +1,3 @@
 source:      .
 destination: ./_site
-includes:    ./_includes
-layouts:     ./_layouts
-# baseurl: /msaveski
 
-collections:
-  projects:
-    output: true
