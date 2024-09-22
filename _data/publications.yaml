@@ -5,14 +5,14 @@ papers:
     paper_pdf: https://arxiv.org/abs/2407.09590
     image: ./assets/images/compress_MoE_teaser.png
     category: [HPC4AI]
-    highlight: True
+    # highlight: True
 
 - title: "Can CLIP Count Stars? An Empirical Study on Quantity Bias in CLIP"
     authors:  <strong><b>Zeliang Zhang</b></strong>, Zhuo Liu, Mingqian Feng, Chenliang Xu
     venue:  Findings of EMNLP 2024.
     image: ./assets/publication_images/clip_bias.png
     category: [Trustworthy]
-    highlight: True
+    # highlight: True
 
 
   - title: "Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?"
@@ -21,7 +21,7 @@ papers:
     paper_pdf: https://arxiv.org/pdf/2406.12663
     image: ./assets/publication_images/image_caption_hulluci.png
     category: [Trustworthy]
-    highlight: True
+    # highlight: True
 
 
   - title: "Discover and Mitigate Multiple Biased Subgroups in Image Classifiers"
